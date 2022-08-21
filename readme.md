@@ -25,7 +25,7 @@ your preferred browser.
 127.0.0.1:5173
 ```
 ### Deployment
-This App was deployed here: [https://achraf2020codedicegame.netlify.app]()
+This App was deployed here: [https://mardownonligneeditor.netlify.app]()
 
 ## Tech
 - Vite ⚡
